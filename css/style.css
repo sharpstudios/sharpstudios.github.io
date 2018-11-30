@@ -15,3 +15,8 @@ body{
     font-family: 'Noto Sans TC', sans-serif;
     color: slategray;
 }
+
+a {
+    color: lightgrey;
+    text-decoration: none;
+}
