@@ -1,11 +1,17 @@
 @import url('https://fonts.googleapis.com/css?family=Noto+Sans+TC');
 
+body{
+    background-image: url('/images/sunset.png');
+}
+
 #heading{
     font-family: 'Noto Sans TC', sans-serif;
     font-size: 48px;
     margin-bottom: 2px;
+    color: slategray;
 }
 
 #shpiel{
     font-family: 'Noto Sans TC', sans-serif;
+    color: slategray;
 }
